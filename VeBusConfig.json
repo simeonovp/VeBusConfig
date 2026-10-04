@@ -1,0 +1,11 @@
+{
+  "host": "",
+  "port": 22,
+  "user": "root",
+  "key_file": "",
+  "remote_dir": "",
+  "local_dir": ".",
+  "vebus_service": "",
+  "mk2_service": "",
+  "mk2vsc": "/opt/victronenergy/mk2vsc/mk2vsc"
+}
